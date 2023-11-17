@@ -1,0 +1,15 @@
+{
+  "name": "lista-de-tareas-node",
+  "version": "1.0.0",
+  "description": "lista de tareas para entregable de node y npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "index",
+    "js"
+  ],
+  "author": "Camilo",
+  "license": "ISC"
+}
